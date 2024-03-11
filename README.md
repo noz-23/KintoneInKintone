@@ -10,6 +10,8 @@ Kintoneの詳細表示をリンクで指定した別のKintone詳細表示する
 
 ### イメージ
 
+　![KintoneInKintone](https://github.com/noz-23/KintoneInKintone/assets/160399039/8c149c40-d4fd-4c99-a41a-b194141dcadc)
+
 　
 ## 2.注意点
 
@@ -17,6 +19,7 @@ Kintoneの詳細表示をリンクで指定した別のKintone詳細表示する
 
 ## 3.今後
 
+別のKintone(iframe)表示の内容はcssに変更しようと思います。
 
 ## 4.ライセンス
 
