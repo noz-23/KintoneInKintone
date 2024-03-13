@@ -7,6 +7,7 @@
  * 
  * History
  *  2024/03/10 0.1.0 初版とりあえずバージョン
+ *  2024/03/12 0.1.1 表示の不具合修正
  */
 
 jQuery.noConflict();
@@ -27,6 +28,7 @@ jQuery.noConflict();
         plugin_titile      : 'Kintone Detail Show In Other Kintone Detail Show Plugin Plugin',
         plugin_description : 'Set Link Field',
         plugin_label       : 'Please Setting Link Field',
+        link_label         : 'Link Field               ',
         edit_label         : 'Edit Show Detail         ',
         comment_label      : 'Show Datail Comment      ',
         edit_detail        : 'Allow',
@@ -39,6 +41,7 @@ jQuery.noConflict();
         plugin_titile      : 'ユーザーの所属組織の展開 プラグイン',
         plugin_description : 'Kintone 詳細表示に別のKintone 詳細表示を表示します',
         plugin_label       : 'リンクは設定して下さい',
+        link_label         : 'リンクフィールド      ',
         edit_label         : '詳細の編集許可        ',
         comment_label      : '詳細のコメント表示    ',
         edit_detail        : '許可',
