@@ -12,7 +12,6 @@ Kintoneの詳細表示をリンクで指定した別のKintone詳細表示する
 
 　![KintoneInKintone](https://github.com/noz-23/KintoneInKintone/assets/160399039/8c149c40-d4fd-4c99-a41a-b194141dcadc)
 
-　
 ## 2.注意点
 
 別のKintoneの表示は、下部固定です。
@@ -29,7 +28,12 @@ MIT license
 
 JQuery   :https://jquery.com
 
+    https://js.cybozu.com/jquery/3.7.1/jquery.min.js
+          
+
 jsrender :https://www.jsviews.com
+
+    https://js.cybozu.com/jsrender/1.0.13/jsrender.min.js
 
 
 ## 6.バージョン履歴
@@ -37,6 +41,8 @@ jsrender :https://www.jsviews.com
  2024/03/10 0.1.0 初版 とりあえずバージョンの作成
  
  2024/03/12 0.1.1 表示の不具合修正
+
+ 2024/03/24 0.2.0 プラグイン設定画面に Google AdSense 追加
 
 ## 7.連絡
 
@@ -47,4 +53,9 @@ nzds23@yahoo.co.jp
 ライセンス条項を守って頂ければ特に制限ありません。
 
 可能なら記載したいので、メールアドレスに連絡頂ければ幸いです。
+
+プラグイン設定画面で Google AdSense の広告表示をしています。
+
+わかり易くしてますので、削除は自分でやって下さい。
+
 
