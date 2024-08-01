@@ -44,6 +44,10 @@ jsrender :https://www.jsviews.com
 
  2024/03/24 0.2.0 プラグイン設定画面に Google AdSense 追加
 
+ 2024/04/17 0.2.1 許可値の不具合修正
+
+ 2024/08/01 0.2.2 設定htmlのチェック表示のクラス変更
+
 ## 7.連絡
 
 nzds23@yahoo.co.jp

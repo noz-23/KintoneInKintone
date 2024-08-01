@@ -7,22 +7,28 @@
       <br>
     </p>
     <label id="link_label" class="kintoneplugin-label">{{html:lang.link_label}}</label>
-    <div class="kintoneplugin-select">
-      <select id="link_field">
-        <option value="">---</option>
-      </select>
-    </div>
+    <div class="kintoneplugin-select-outer">
+      <div class="kintoneplugin-select">
+        <select id="link_field">
+          <option value="">---</option>
+        </select>
+      </div>
+      </div>
     <br>
     <label id="edit_label" class="kintoneplugin-label">{{html:lang.edit_label}}</label>
-    <div class="kintoneplugin-input-outer">
-      <input id="edit_datail" class="kintoneplugin-input-text" type="checkbox" name="edit" checked>
-      <label for="edit">{{html:lang.edit_detail}}</label>
+    <div class="kintoneplugin-input-checkbox">
+      <span class="kintoneplugin-input-checkbox-item">
+        <input id="edit_datail" type="checkbox" checked="false">
+        <label for="edit_datail">{{html:lang.edit_detail}}</label>
+      </span>
     </div>
     <br>
     <label id="comment_label" class="kintoneplugin-label">{{html:lang.comment_label}}</label>
-    <div class="kintoneplugin-input-outer">
-      <input id="show_comment" class="kintoneplugin-input-text" type="checkbox" name="comment" checked>
-      <label for="comment">{{html:lang.show_comment}}</label>
+    <div class="kintoneplugin-input-checkbox">
+      <span class="kintoneplugin-input-checkbox-item">
+        <input id="show_comment" type="checkbox" checked="false">
+        <label for="show_comment">{{html:lang.show_comment}}</label>
+      </span>
     </div>
     <br>
     <p class="kintoneplugin-row">
