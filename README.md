@@ -48,6 +48,8 @@ jsrender :https://www.jsviews.com
 
  2024/08/01 0.2.2 設定htmlのチェック表示のクラス変更
 
+ 2024/09/07 0.2.3 URLの設定方法を変更
+ 
 ## 7.連絡
 
 nzds23@yahoo.co.jp
